@@ -1,0 +1,212 @@
+@font-face {
+	font-family: 'weblogmayekanregular';
+	src: url('fonts/yekan_0.eot');
+	src: local('☺'),
+	url('fonts/yekan_0.eot?#iefix') format('embedded-opentype'),
+	url('fonts/yekan_0.woff') format('woff'),
+	url('fonts/yekan_0.ttf') format('truetype'),
+	url('fonts/yekan_0.svg#weblogmayekanregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@media all {
+	.farsi {
+		/*font-family: 'weblogmayekanregular',Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;*/
+		text-rendering: auto;
+		direction: rtl;
+		//font-size: 15px;
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: 'Raleway', serif;
+	}
+
+	body {
+	//min-height: 2000px;
+		/*padding-top: 70px;*/
+	}
+
+	* {
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+	}
+
+	.qrBox{
+		margin:10px;
+		background-color: white;
+		border-style: solid;
+	}
+
+	.center{
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.add_form{
+		text-align: right;
+		direction: rtl;
+
+	}
+
+	.dir-left{
+		text-align: left;
+		direction: ltr;
+	}
+
+	.dir-right{
+		text-align: right;
+		direction: rtl;
+	}
+
+	.text_center{
+		text-align: center;
+	}
+
+	.submit_parent{
+		margin-top: 40px;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+
+	#submit-btn{
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+	.cover-heading{
+		font-size: 45px;
+	}
+
+	.nav li{
+		font-size: 17px;
+	}
+
+	.right-margin{
+		margin-right:10px;
+	}
+
+	.radio-rtl input[type="radio"],
+	.radio-inline-rtl input[type="radio"],
+	.checkbox-rtl input[type="checkbox"],
+	.checkbox-inline-rtl input[type="checkbox"] {
+		margin-left: 5px;
+	}
+
+	.ltr{
+		direction: ltr;
+	}
+
+	.inline-vertical-center{
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	#navbar{
+
+	}
+
+	.nav-header-name{
+		font-size: 30px;
+		padding: 45px 45px;
+		line-height: 35px;
+		color: #777;
+	}
+
+	.header-img{
+		margin: 10px;
+	}
+
+	.footer{
+		/*position: fixed;*/
+		/*bottom: 0;*/
+		margin-top: 100px;
+		background-color: #eee;
+	}
+
+	.post-title{
+		margin: 10px;
+		padding: 10px;
+		font-size: 30px;
+		font-weight: bold;
+		background-color: #8c1515;
+		color: #EEE;
+		/*text-align: left;*/
+		padding-left: 10px;
+		border-radius: 10px;
+	}
+
+	.post-body{
+		margin: 10px;
+		padding: 10px;
+		padding-top: 20px;
+		text-align: justify;
+		text-justify: inter-word;
+		font-size: 18px;
+		line-height: 30px;
+	}
+
+	.mission-body{
+		margin-top: 30px;
+		padding: 10px;
+		font-size: 18px;
+		line-height: 33px;
+		text-align: left;
+	}
+
+	.mission-title{
+		color: rgb(140, 21, 21);
+		font-size: 30px;
+		/*font-weight: bold;*/
+		/*background-color: #333;*/
+		/*text-align: left;*/
+		padding-top: 40px;
+		border-bottom-width: 4px;
+		border-bottom-style: solid;
+		border-bottom-color: rgb(140, 21, 21);
+
+	}
+
+	.bottom-border{
+		border-bottom-width: 4px;
+		border-bottom-style: solid;
+		border-bottom-color: rgb(140, 21, 21);
+		padding-bottom: 10px;
+	}
+
+
+
+	.mission-sum{
+		margin:10px;
+	}
+
+	.research-interests li a{
+		color: rgb(140, 21, 21);
+
+	}
+
+	.research-interest-title{
+		margin-top: 40px;
+		padding: 10px;
+	}
+
+	.research-interest-body{
+		margin-top: 10px;
+		padding: 10px;
+		font-size: 18px;
+		line-height: 33px;
+		text-align: left;
+	}
+}
+
+
+@media print {
+	.break-after{
+		//page-break-after: always;
+	}
+
+	.break-after:after{
+		//content:"\A"; white-space:pre;
+	}
+}
