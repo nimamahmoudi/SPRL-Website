@@ -88,37 +88,5 @@
     <div class="col-md-3"></div>
 </div>
 
-<!--<div class="site-wrapper">-->
-<!--    <div class="site-wrapper-inner">-->
-<!---->
-<!--        <div class="cover-container">-->
-<!---->
-<!--            <div class="inner cover">-->
-<!--                <h1 class="cover-heading farsi">-->
-<!--                    لوکسین تک-->
-<!--                </h1>-->
-<!--                <p class="lead farsi">-->
-<!--                    مدیریت هوشمند روشنایی فروشگاهها-->
-<!--                </p>-->
-<!--                <p class="lead">-->
-<!--                    <a href="add_project.php" class="btn btn-lg btn-default farsi">-->
-<!--                        سفارش گذاری-->
-<!--                    </a>-->
-<!--                </p>-->
-<!--            </div>-->
-<!---->
-<!--            <div class="mastfoot">-->
-<!--                <div class="inner">-->
-<!--                    <p class="farsi">-->
-<!--                        تولید شده در واحد توسعه و تکنولوژی لوکسین تک-->
-<!--                    </p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!---->
-<!--        </div>-->
-<!---->
-<!--    </div>-->
-<!---->
-<!--</div>-->
 </body>
 </html>

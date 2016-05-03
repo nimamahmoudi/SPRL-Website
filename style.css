@@ -19,7 +19,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: 'Raleway', serif;
+		font-family: "Crimson Text",'Raleway', serif;
 	}
 
 	body {
@@ -197,6 +197,24 @@
 		font-size: 18px;
 		line-height: 33px;
 		text-align: left;
+	}
+
+	.publications-cite{
+		font-family: Arial;
+		line-height: 30px;
+	}
+
+	.italic{
+		font-style: italic;
+	}
+
+	.people-table{
+		text-align: left;
+	}
+
+	.table-section{
+		font-weight: bold;
+		font-size: 18px;
 	}
 }
 

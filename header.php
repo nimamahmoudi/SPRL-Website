@@ -17,28 +17,24 @@
             <ul class="nav navbar-nav">
                 <li class="<?php if(pageName == "Home") echo " active" ?>"><a href="index.php">Home</a></li>
                 <li class="<?php if(pageName == "Research") echo " active" ?>"><a href="research.php">Research</a></li>
-                <li class="<?php if(pageName == "Publications") echo " active" ?>"><a href="publications.php">Publications</a></li>
-                <li class="<?php if(pageName == "People") echo " active" ?>"><a href="people.php">People</a></li>
-                <li class="<?php if(pageName == "Links") echo " active" ?>"><a href="links.php">Links</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Publications <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Books/Chapters</a></li>
-                        <li><a href="#">Journal Papers</a></li>
-                        <li><a href="#">Conference Papers Papers</a></li>
-                        <li><a href="#">Something else here</a></li>
-                        <li role="separator" class="divider"></li>
-                        <li class="dropdown-header">Nav header</li>
-                        <li><a href="#">Separated link</a></li>
-                        <li><a href="#">One more separated link</a></li>
+                        <li><a href="publications.php">All Publications</a></li>
+                        <li><a href="publications.php#books">Books/Chapters</a></li>
+                        <li><a href="publications.php#journal">Journal Papers</a></li>
+                        <li><a href="publications.php#conference">Conference Papers</a></li>
                     </ul>
                 </li>
+<!--                <li class="--><?php //if(pageName == "Publications") echo " active" ?><!--"><a href="publications.php">Publications</a></li>-->
+                <li class="<?php if(pageName == "People") echo " active" ?>"><a href="people.php">People</a></li>
+                <li class="<?php if(pageName == "Links") echo " active" ?>"><a href="links.php">Links</a></li>
             </ul>
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="../navbar/">Default</a></li>
-                <li><a href="../navbar-static-top/">Static top</a></li>
-                <li class="active"><a href="./">Fixed top <span class="sr-only">(current)</span></a></li>
-            </ul>
+<!--            <ul class="nav navbar-nav navbar-right">-->
+<!--                <li><a href="../navbar/">Default</a></li>-->
+<!--                <li><a href="../navbar-static-top/">Static top</a></li>-->
+<!--                <li class="active"><a href="./">Fixed top <span class="sr-only">(current)</span></a></li>-->
+<!--            </ul>-->
         </div><!--/.nav-collapse -->
     </div>
 </nav>
