@@ -24,6 +24,7 @@
                         <li><a href="publications.php#books">Books/Chapters</a></li>
                         <li><a href="publications.php#journal">Journal Papers</a></li>
                         <li><a href="publications.php#conference">Conference Papers</a></li>
+                        <li><a href="publications.php#patents">Patents</a></li>
                     </ul>
                 </li>
 <!--                <li class="--><?php //if(pageName == "Publications") echo " active" ?><!--"><a href="publications.php">Publications</a></li>-->
@@ -46,7 +47,7 @@
         </div>
         <div class="col-md-8">
             <div class="col-md-12 nav-header-name">
-                SPRL: Speech Processing Research Lab
+                SPRL: Signal and speech Processing Research Lab
             </div>
         </div>
         <div class="col-md-2">

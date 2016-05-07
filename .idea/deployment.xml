@@ -5,7 +5,7 @@
       <paths name="SPRL">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$PROJECT_DIR$" web="sprl" />
           </mappings>
         </serverdata>
       </paths>

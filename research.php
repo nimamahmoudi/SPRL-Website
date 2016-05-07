@@ -30,14 +30,16 @@
             <br/>
             <br/>
             <ol class="research-interests">
-                <li><a href="#rsr">Robust Speech recognition</a></li>
-                <li><a href="#apaca">Audio Processing and Content Analysis</a></li>
-                <li><a href="#vad">Voice Activity Detection</a></li>
-                <li><a href="#sa">Speaker Adaptation</a></li>
-                <li><a href="#ssad">Speaker Segmentation and Diarization</a></li>
-                <li><a href="#li">Language Identification</a></li>
-                <li><a href="#aw">Audio Watermarking</a></li>
-                <li><a href="#se">Speech Enhancement</a></li>
+                <li><a href="#assp">Audio/speech signal processing</a></li>
+                <li><a href="#asr">Automatic speech recognition</a></li>
+                <li><a href="#rsr">Robust speech recognition</a></li>
+                <li><a href="#se">Speech enhancement</a></li>
+                <li><a href="#saisr">Speaker adaptation in speech recognition</a></li>
+                <li><a href="#slr">Speaker/language recognition</a></li>
+                <li><a href="#asslts">Audio/speech source localization/tracking/separation</a></li>
+                <li><a href="#asw">Audio and speech watermarking</a></li>
+                <li><a href="#ip">Image processing</a></li>
+                <li><a href="#dms">Digital and microprocessor-based systems</a></li>
             </ol>
             <div class="row research-interest-title bottom-border">
                 <h2 class="">
@@ -75,18 +77,9 @@
 </div>
 
 
-<div class="row footer center">
-    <div class="col-md-3"></div>
-    <div class="col-md-6">
-        <div class="inner">
-            <p class="">
-                Speech Processing Research Lab., 3rd floor Abou-Ray-Han Building, Amirkabir University of Technology
-                (Tehran Polytechnic), Hafez Ave., Tehran, Iran.   Tel: +98-21-6454-3392
-            </p>
-        </div>
-    </div>
-    <div class="col-md-3"></div>
-</div>
+<?php
+include("footer.php");
+?>
 
 </body>
 </html>
