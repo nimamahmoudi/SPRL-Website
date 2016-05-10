@@ -41,7 +41,6 @@
                 <li><a href="#asslts">Audio/speech source localization/tracking/separation</a></li>
                 <li><a href="#asw">Audio and speech watermarking</a></li>
                 <li><a href="#ip">Image processing</a></li>
-                <li><a href="#dms">Digital and microprocessor-based systems</a></li>
             </ol>
 
             <!--Robust Online Visual Object Tracking-->
@@ -163,9 +162,17 @@
                 </h2>
             </div>
             <div class="row research-interest-body">
-
+                Speaker adaptation consists of adapting a (usually speaker independent) speech recognizer, to a
+                new speaker, in order to improve its overall performance for that specific speaker.
                 <br/>
                 <br/>
+                Specific activities in this area involve:
+                <br/>
+                <br/>
+                <ul>
+                    <li>Speaker clustering</li>
+                    <li>Eigenvoice, MAP and MLLR-based adaptations</li>
+                </ul>
             </div>
 
             <!--Speaker/language recognition-->
@@ -177,7 +184,12 @@
                 </h2>
             </div>
             <div class="row research-interest-body">
-
+                Language identification is the process of determining which natural language given content is in.
+                Traditionally, identification of written language - as practiced, for instance, in library science
+                - has relied on manually identifying frequent words and letters known to be characteristic of
+                particular languages. More recently, computational approaches have been applied to the problem.
+                By viewing language identification as a kind of text categorization, a Natural Language Processing
+                approach, which relies on statistical methods, may be utilized.
                 <br/>
                 <br/>
             </div>
@@ -206,28 +218,23 @@
                 </h2>
             </div>
             <div class="row research-interest-body">
-
+                Digital watermarking is the art of embedding useful information into the digital products (such as audio, image, video, text) in a way that does not interfere with normal usage of it. This information is used for different purposes such as copyright protection, content authentication, broadcast monitoring etc. Several issues should be considered in a watermarking system. Three important issues are: transparency of watermark, robustness of the system against attacks and data rate of watermark embedding. A good watermarking system should have all of these requirements at acceptable level.
                 <br/>
                 <br/>
+                Specific activities in this area involve
+                <br/>
+                <br/>
+                <ul>
+                    <li>Robust audio watermarking</li>
+                    <li>Using neural networks in watermarking</li>
+                    <li>Mathematical modeling of watermarking systems</li>
+                </ul>
             </div>
             <!--Image processing-->
             <div class="row research-interest-title bottom-border">
                 <h2 class="">
                     <a name="ip">
                         Image processing
-                    </a>
-                </h2>
-            </div>
-            <div class="row research-interest-body">
-
-                <br/>
-                <br/>
-            </div>
-            <!--Digital and microprocessor-based systems-->
-            <div class="row research-interest-title bottom-border">
-                <h2 class="">
-                    <a name="dms">
-                        Digital and microprocessor-based systems
                     </a>
                 </h2>
             </div>
