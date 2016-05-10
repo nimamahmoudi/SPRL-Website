@@ -112,8 +112,8 @@
                 can become leaders in the industry, academia and profession.
             </div>
             <div class="col-md-6 mission-body">
-                To train and educate, at both undergraduate and postgraduate levels, engineers of outstanding ability who
-                can become leaders in the industry, academia and profession.
+                To carry out advanced research and development in information and software
+                technologies and their social, scientific, industrial and financial applications.
             </div>
 <!--            <div class="col-md-2"></div>-->
         </div>

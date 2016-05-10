@@ -44,18 +44,207 @@ $person["Designation"] = "Ph.D. (Since Sept. 2013)";
 $person["E-Mail"] = "ghaheri_h [at] aut.ac.ir";
 $students[] = $person;
 
-/////////////////////////////////////////Alumni
-$person["Link"] = "http://www.nmahmoudi.ir";
-$person["Name"] = "Nima Mahmoudi";
+$person["Link"] = "";
+$person["Name"] = "Razieh Safari";
 $person["Designation"] = "M.Sc. (Since Sept. 2015)";
-$person["E-Mail"] = "nima_mahmoudi [at] aut.ac.ir";
+$person["E-Mail"] = "r.safari393 [at] gmail.com";
+$students[] = $person;
+
+/////////////////////////////////////////Alumni
+$person["Link"] = "";
+$person["Name"] = "Sanaz Seyedin";
+$person["Designation"] = "Ph.D. (2005)";
+$person["E-Mail"] = "seyedin [at] cic.aut.ac.ir";
 $alumni[] = $person;
 
-$person["Link"] = "http://www.nmahmoudi.ir";
-$person["Name"] = "Nima Mahmoudi";
-$person["Designation"] = "M.Sc. (Since Sept. 2015)";
-$person["E-Mail"] = "nima_mahmoudi [at] aut.ac.ir";
+$person["Link"] = "";
+$person["Name"] = "Ali Pourmohammad";
+$person["Designation"] = "Ph.D. (2006)";
+$person["E-Mail"] = "pourmohammad [at] cic.aut.ac.ir";
 $alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Neda Faraji";
+$person["Designation"] = "Ph.D. (2007)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Hodjat Yeganeh";
+$person["Designation"] = "M.Sc. (2006)";
+$person["E-Mail"] = "h_yeganeh [at] cic.aut.ac.ir";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Ali Ziaei";
+$person["Designation"] = "M.Sc. (2006)";
+$person["E-Mail"] = "aliziaei [at] cic.aut.ac.ir";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Hossein Maleki";
+$person["Designation"] = "M.Sc. (2006)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Bahareh Nazari";
+$person["Designation"] = "M.Sc. (2006)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Nima Khademi";
+$person["Designation"] = "M.Sc. (2007)";
+$person["E-Mail"] = "nimakhademi [at] cic.aut.ac.ir";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Mahdieh Karbasi";
+$person["Designation"] = "M.Sc. (2007)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Erfan Loveimi";
+$person["Designation"] = "M.Sc. (2007)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Gholamreza Farahani";
+$person["Designation"] = "Ph.D. (2006)";
+$person["E-Mail"] = "reza_farahani [at] yahoo.com";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Davood Gharavian";
+$person["Designation"] = "Ph.D. (2004)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Seyedeh Akram Soleimani";
+$person["Designation"] = "M.Sc. (2008)";
+$person["E-Mail"] = "s_a_soleimani [at] cic.aut.ac.ir";
+$alumni[] = $person;
+
+
+$person["Link"] = "";
+$person["Name"] = "Oldooz Hazrati";
+$person["Designation"] = "M.Sc. (2008)";
+$person["E-Mail"] = "oldoozh [at] cic.aut.ac.ir";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Seyed Masoud Mirrezaei";
+$person["Designation"] = "M.Sc. (2008)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Seyed Omid Sadjadi";
+$person["Designation"] = "M.Sc. (2008)";
+$person["E-Mail"] = "o.sadjadi [at] cic.aut.ac.ir";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Farzad Golshan";
+$person["Designation"] = "M.Sc. (2007)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Neda Faraji";
+$person["Designation"] = "M.Sc. (2007)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Leila Ardakanian";
+$person["Designation"] = "M.Sc. (2006)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Alireza Esmaeili";
+$person["Designation"] = "M.Sc. (2006)";
+$person["E-Mail"] = "alireza_esmayili [at] gmail.com";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Ehsan Shokri";
+$person["Designation"] = "M.Sc. (2006)";
+$person["E-Mail"] = "sigma_es [at] yahoo.com";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Meisam Mansoub Bassiri";
+$person["Designation"] = "M.Sc. (2005)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Parham Olya";
+$person["Designation"] = "M.Sc. (2004)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Marjan Bahrololum";
+$person["Designation"] = "M.Sc. (2002)	";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Saeed Sharifian";
+$person["Designation"] = "M.Sc. (2002)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Mahmood Khayatzadeh";
+$person["Designation"] = "M.Sc. (2002)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Jamal Habibi";
+$person["Designation"] = "M.Sc. (2001)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Seyed Hossein Shams";
+$person["Designation"] = "M.Sc. (2001)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Ali Taheri";
+$person["Designation"] = "M.Sc. (2001)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Mehdi Parvizi";
+$person["Designation"] = "M.Sc. (2000)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Mehdi Shirzad";
+$person["Designation"] = "M.Sc. (1999)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+$person["Link"] = "";
+$person["Name"] = "Shiva Rostamzadeh";
+$person["Designation"] = "M.Sc. (1997)";
+$person["E-Mail"] = "";
+$alumni[] = $person;
+
+
 
 //echo "<pre style='text-align: left'>";
 //print_r($students);
