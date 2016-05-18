@@ -56,6 +56,13 @@
                         CVPR (Computer Vision and Pattern Recognition) 2016
                     </a>
                 </li>
+
+                <li>
+                    <a href="http://www.eccv2016.org/">
+                        ECCV (European Conference on Computer Vision) 2016
+                    </a>
+                </li>
+
                 <li>
                     <a href="http://opencv.org/">
                         OpenCV Library
