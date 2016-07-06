@@ -42,6 +42,26 @@
                         University of Cambridge speech links
                     </a>
                 </li>
+                <li>
+                    <a href="http://www.isca-speech.org">
+                        ISCA (International Speech Communication Association)
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.isca-students.org/?q=speechlabs">
+                        Speech Labs over the world
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.elra.info/en/">
+                        ELRA (European Language Resources Association)
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.ldc.upenn.edu/">
+                        LDC (Linguistic Data Consortium)
+                    </a>
+                </li>
             </ul>
 
             <h3>Image Processing:</h3>

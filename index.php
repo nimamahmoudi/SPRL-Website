@@ -28,7 +28,7 @@
             <div class="item active">
                 <img src="img/carousel1.jpg" alt="SPRL">
                 <div class="carousel-caption">
-                    <h3>carousel1</h3>
+<!--                    <h3>carousel1</h3>-->
                     <p></p>
                 </div>
             </div>
@@ -36,7 +36,7 @@
             <div class="item">
                 <img src="img/carousel2.jpg" alt="SPRL">
                 <div class="carousel-caption">
-                    <h3>carousel2</h3>
+<!--                    <h3>carousel2</h3>-->
                     <p></p>
                 </div>
             </div>
@@ -44,7 +44,7 @@
             <div class="item">
                 <img src="img/carousel3.jpg" alt="SPRL">
                 <div class="carousel-caption">
-                    <h3>carousel3</h3>
+<!--                    <h3>carousel3</h3>-->
                     <p></p>
                 </div>
             </div>
@@ -52,7 +52,7 @@
             <div class="item">
                 <img src="img/carousel4.jpg" alt="SPRL">
                 <div class="carousel-caption">
-                    <h3>carousel4</h3>
+<!--                    <h3>carousel4</h3>-->
                     <p></p>
                 </div>
             </div>
@@ -60,7 +60,7 @@
             <div class="item">
                 <img src="img/carousel5.jpg" alt="SPRL">
                 <div class="carousel-caption">
-                    <h3>carousel5</h3>
+<!--                    <h3>carousel5</h3>-->
                     <p></p>
                 </div>
             </div>
@@ -96,8 +96,8 @@
     <div class="col-md-3"></div>
     <div class="col-md-6">
         <div class="row post-body">
-            The Speech Processing Research Lab. (SPRL) at the EE Department, Amirkabir University of Technology (AUT) is
-            actively involved in research in the fields of speech and audio processing. This includes audio signal analysis,
+            The Signal and Speech Processing Research Lab. (SPRL) at the Electrical Engineering Department, Amirkabir University of Technology (AUT) is
+            actively involved in research in the fields of signal, image, speech and audio processing. This includes audio MRI Signal Processing, Robust Visual Tracking, signal analysis,
             speech recognition, speech synthesis, speaker recognition, speaker adaptation, speech enhancement and spoken dialog systems.
         </div>
         <div class="row mission-title">

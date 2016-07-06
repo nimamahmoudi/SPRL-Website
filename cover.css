@@ -153,6 +153,11 @@ body {
   .cover-container {
     width: 100%; /* Must be percentage or pixels for horizontal alignment */
   }
+
+  .research-interest-title
+  {
+    text-align: left;
+  }
 }
 
 @media (min-width: 992px) {
