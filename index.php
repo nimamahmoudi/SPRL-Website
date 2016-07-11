@@ -18,9 +18,9 @@
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-            <li data-target="#myCarousel" data-slide-to="3"></li>
-            <li data-target="#myCarousel" data-slide-to="4"></li>
+<!--            <li data-target="#myCarousel" data-slide-to="2"></li>-->
+<!--            <li data-target="#myCarousel" data-slide-to="3"></li>-->
+<!--            <li data-target="#myCarousel" data-slide-to="4"></li>-->
         </ol>
 
         <!-- Wrapper for slides -->
@@ -41,29 +41,29 @@
                 </div>
             </div>
 
-            <div class="item">
-                <img src="img/carousel3.jpg" alt="SPRL">
-                <div class="carousel-caption">
-<!--                    <h3>carousel3</h3>-->
-                    <p></p>
-                </div>
-            </div>
-
-            <div class="item">
-                <img src="img/carousel4.jpg" alt="SPRL">
-                <div class="carousel-caption">
-<!--                    <h3>carousel4</h3>-->
-                    <p></p>
-                </div>
-            </div>
-
-            <div class="item">
-                <img src="img/carousel5.jpg" alt="SPRL">
-                <div class="carousel-caption">
-<!--                    <h3>carousel5</h3>-->
-                    <p></p>
-                </div>
-            </div>
+<!--            <div class="item">-->
+<!--                <img src="img/carousel3.jpg" alt="SPRL">-->
+<!--                <div class="carousel-caption">-->
+<!--<!--                    <h3>carousel3</h3>-->-->
+<!--                    <p></p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="item">-->
+<!--                <img src="img/carousel4.jpg" alt="SPRL">-->
+<!--                <div class="carousel-caption">-->
+<!--<!--                    <h3>carousel4</h3>-->-->
+<!--                    <p></p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="item">-->
+<!--                <img src="img/carousel5.jpg" alt="SPRL">-->
+<!--                <div class="carousel-caption">-->
+<!--<!--                    <h3>carousel5</h3>-->-->
+<!--                    <p></p>-->
+<!--                </div>-->
+<!--            </div>-->
         </div>
 
         <!-- Left and right controls -->

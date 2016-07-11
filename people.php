@@ -7,6 +7,12 @@ $person["Designation"] = "Director";
 $person["E-Mail"] = "sma [at] aut.ac.ir";
 $faculty[] = $person;
 
+$person["Link"] = "http://aut.ac.ir/sseyedin";
+$person["Name"] = "Sanaz Seyedin";
+$person["Designation"] = "";
+$person["E-Mail"] = "seyedin [at] aut.ac.ir";
+$faculty[] = $person;
+
 /////////////////////////////////////////Students
 $person["Link"] = "http://www.nmahmoudi.ir";
 $person["Name"] = "Nima Mahmoudi";
@@ -68,10 +74,10 @@ $person["Designation"] = "M.Sc. (Since Sept. 2015)";
 $person["E-Mail"] = "r.safari393 [at] gmail.com";
 $students[] = $person;
 
-$person["Link"] = "";
+$person["Link"] = "http://ele.aut.ac.ir/kafoori";
 $person["Name"] = "Kian Ebrahim Kafoori";
 $person["Designation"] = "Ph.D. (Since Sept. 2010)";
-$person["E-Mail"] = "";
+$person["E-Mail"] = "kafoori@aut.ac.ir";
 $students[] = $person;
 
 $person["Link"] = "";
@@ -105,7 +111,7 @@ $person["Designation"] = "Ph.D. (2012)";
 $person["E-Mail"] = "pourmohammad [at] aut.ac.ir";
 $alumni[] = $person;
 
-$person["Link"] = "";
+$person["Link"] = "http://aut.ac.ir/sseyedin";
 $person["Name"] = "Sanaz Seyedin";
 $person["Designation"] = "Ph.D. (2010)";
 $person["E-Mail"] = "seyedin [at] aut.ac.ir";
